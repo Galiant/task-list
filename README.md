@@ -1,2 +1,2 @@
 # Task List
-Task list project
+Small task list project
