@@ -1,2 +1,2 @@
-# task-list
+# Task List
 Task list project
